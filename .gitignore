@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.npm-cache/
+.npmrc
+qa/
+.DS_Store
+
+# Local implementation notes and generated QA artifacts
+AGENTS.md
+design-qa.md
+docs/
+scripts/
+
+# Unused footer assets
+public/assets/09-footer-*.png
